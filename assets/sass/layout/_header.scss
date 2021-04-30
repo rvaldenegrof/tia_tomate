@@ -1,0 +1,12 @@
+.header {
+    background-position: center;
+    background-size: cover;
+    display: table;
+    text-align: center;
+    align-content: center;
+
+    &__img{
+        width: 300px;
+        padding: 20px 0 10px 40px;
+    }
+}

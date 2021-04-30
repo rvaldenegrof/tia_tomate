@@ -1,0 +1,23 @@
+.main {
+    background-color: $j-bean;
+    color: $white;
+    height: 500px;
+    text-align: center;
+
+    &__contenido {
+        position: relative;
+        top:40%;
+    }
+
+    &__text {
+        font-family: $raleway;
+        font-size: $x-large;
+        font-weight: lighter;
+    }
+
+    &__text-bold {
+        font-family: $raleway;
+        font-size: $x-large;
+        font-weight: bolder;
+    }
+}

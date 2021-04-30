@@ -1,0 +1,12 @@
+.button {
+    width: 200px;
+
+
+    &__r {
+        background-color: $white;
+        color: $g-gray;
+        font-size: $medium;
+        border-radius: 18px;
+        padding: 10px 0 10px 0;
+    }
+}

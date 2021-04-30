@@ -1,0 +1,25 @@
+.organics {
+    background-color: $q-silver;
+    color: $white;
+    text-align: center;
+
+    &__img {
+        padding-top: 5%;
+        width: 80%;
+    }
+
+    &__title {
+        padding-top: 2%;
+        font-family: $raleway;
+        font-size: $medium;
+        font-weight: bolder;
+    }
+
+    &__text {
+        width: 100%;
+        padding: 2% 20% 2% 20%;
+        font-family: $raleway;
+        font-size: $medium;
+        text-align: justify;
+    }
+}

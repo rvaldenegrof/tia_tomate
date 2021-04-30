@@ -1,0 +1,13 @@
+.footer {
+    background-color: $q-silver;
+    display: block;
+    width: 100%;
+    text-align: center;
+
+    &__img {
+        background-color: $q-silver;
+        width: 20%;
+        height: 20%;
+        padding: 10% 0%;
+    }
+}

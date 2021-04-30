@@ -1,0 +1,6 @@
+// handle laptop size media query
+@mixin lp-vw {
+    @media (min-width: #{$min-lp}) {
+      @content;
+    }
+  }
